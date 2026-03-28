@@ -1,0 +1,251 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.1 2024.02, Feb  1 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/python/Digital Logic and Design/New folder/lab_5/New folder (5)
+T_opt
+!s110 1773494028
+VBoz75@Hh_a>cPWi6YzADl2
+04 13 4 work tb_multiplier fast 0
+=1-dc9009d11af0-69b55f0b-2bb-374c
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2024.1;79
+vdecoder_sel
+2C:/python/Digital Logic and Design/New folder/lab_5/SRC/decoder_sel.sv
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1773494020
+!i10b 1
+!s100 AAhLGlSN_[GkFEa14i@;O2
+IjHa`gSe7MMQd1kD<c8:783
+S1
+Z4 dC:/python/Digital Logic and Design/New folder/lab_5/questa
+w1773493737
+8C:/python/Digital Logic and Design/New folder/lab_5/SRC/decoder_sel.sv
+FC:/python/Digital Logic and Design/New folder/lab_5/SRC/decoder_sel.sv
+!i122 1
+L0 1 18
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2024.1;79
+r1
+!s85 0
+31
+Z7 !s108 1773494020.000000
+!s107 C:/python/Digital Logic and Design/New folder/lab_5/SRC/decoder_sel.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/python/Digital Logic and Design/New folder/lab_5/SRC/decoder_sel.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vfull_adder
+Z9 2C:/python/Digital Logic and Design/New folder/lab_5/SRC/ripple_carry_adder.sv
+R2
+R3
+!i10b 1
+!s100 j<lA1hIa?z3Obhj^_T_WF3
+IYI1^0Ea][h8jd2><OoKSc0
+S1
+R4
+Z10 w1773326955
+Z11 8C:/python/Digital Logic and Design/New folder/lab_5/SRC/ripple_carry_adder.sv
+Z12 FC:/python/Digital Logic and Design/New folder/lab_5/SRC/ripple_carry_adder.sv
+!i122 4
+L0 1 6
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z13 !s107 C:/python/Digital Logic and Design/New folder/lab_5/SRC/ripple_carry_adder.sv|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/python/Digital Logic and Design/New folder/lab_5/SRC/ripple_carry_adder.sv|
+!i113 0
+R8
+R1
+vlog_shifter
+2C:/python/Digital Logic and Design/New folder/lab_5/SRC/log_shifter.sv
+R2
+R3
+!i10b 1
+!s100 mKH8PG6;@CXB^]?le?RZK0
+IJci:@cJ7KkhLVJO]fR;Z82
+S1
+R4
+w1773471461
+8C:/python/Digital Logic and Design/New folder/lab_5/SRC/log_shifter.sv
+FC:/python/Digital Logic and Design/New folder/lab_5/SRC/log_shifter.sv
+!i122 2
+L0 1 22
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/python/Digital Logic and Design/New folder/lab_5/SRC/log_shifter.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/python/Digital Logic and Design/New folder/lab_5/SRC/log_shifter.sv|
+!i113 0
+R8
+R1
+vmultiplier
+2C:/python/Digital Logic and Design/New folder/lab_5/SRC/const_multiplier_3.sv
+R2
+R3
+!i10b 1
+!s100 N:L?<AAiDICQO^@hZ[gWP0
+IjPPYU=RC8M4XHGgo@9JSi1
+S1
+R4
+w1773475644
+8C:/python/Digital Logic and Design/New folder/lab_5/SRC/const_multiplier_3.sv
+FC:/python/Digital Logic and Design/New folder/lab_5/SRC/const_multiplier_3.sv
+!i122 0
+L0 1 24
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/python/Digital Logic and Design/New folder/lab_5/SRC/const_multiplier_3.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/python/Digital Logic and Design/New folder/lab_5/SRC/const_multiplier_3.sv|
+!i113 0
+R8
+R1
+vmux2to1
+2C:/python/Digital Logic and Design/New folder/lab_5/SRC/mux2to1.sv
+R2
+R3
+!i10b 1
+!s100 <AzQ;z1ZL@^STIbCAB4`U2
+IbdA2aLl33f]]hU@o:Z69F1
+S1
+R4
+w1773326931
+8C:/python/Digital Logic and Design/New folder/lab_5/SRC/mux2to1.sv
+FC:/python/Digital Logic and Design/New folder/lab_5/SRC/mux2to1.sv
+!i122 3
+L0 1 10
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/python/Digital Logic and Design/New folder/lab_5/SRC/mux2to1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/python/Digital Logic and Design/New folder/lab_5/SRC/mux2to1.sv|
+!i113 0
+R8
+R1
+vripple_adder
+R9
+R2
+R3
+!i10b 1
+!s100 46j<e3nPN4V3]S^n]eg6[2
+IZiMOnT:SFFkROL[adV:C>0
+S1
+R4
+R10
+R11
+R12
+!i122 4
+L0 8 12
+R5
+R6
+r1
+!s85 0
+31
+R7
+R13
+R14
+!i113 0
+R8
+R1
+vseven_seg_decoder
+2C:/python/Digital Logic and Design/New folder/lab_5/SRC/seven_seg_decoder.sv
+R2
+R3
+!i10b 1
+!s100 jQT;EcFWI^PBzR0^]]R0]3
+IR^g6J?D47az@0:e<DkXoQ0
+S1
+R4
+w1773493733
+8C:/python/Digital Logic and Design/New folder/lab_5/SRC/seven_seg_decoder.sv
+FC:/python/Digital Logic and Design/New folder/lab_5/SRC/seven_seg_decoder.sv
+!i122 5
+L0 1 26
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/python/Digital Logic and Design/New folder/lab_5/SRC/seven_seg_decoder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/python/Digital Logic and Design/New folder/lab_5/SRC/seven_seg_decoder.sv|
+!i113 0
+R8
+R1
+vtb_multiplier
+2C:/python/Digital Logic and Design/New folder/lab_5/SRC/tb_const_multiplier_3.sv
+R2
+R3
+!i10b 1
+!s100 WL5O[N>M9?03ijZzJ7Y[D3
+IRd6AdIOB3gNEXFj3Hb:P82
+S1
+R4
+w1773475800
+8C:/python/Digital Logic and Design/New folder/lab_5/SRC/tb_const_multiplier_3.sv
+FC:/python/Digital Logic and Design/New folder/lab_5/SRC/tb_const_multiplier_3.sv
+!i122 6
+L0 1 21
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/python/Digital Logic and Design/New folder/lab_5/SRC/tb_const_multiplier_3.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/python/Digital Logic and Design/New folder/lab_5/SRC/tb_const_multiplier_3.sv|
+!i113 0
+R8
+R1
+vtop_module
+2C:/python/Digital Logic and Design/New folder/lab_5/SRC/top.sv
+R2
+R3
+!i10b 1
+!s100 HL@n_jo]lIF5WQfB@Cnk=2
+I1QFoKmo526SfeODXBBK;12
+S1
+R4
+w1773475760
+8C:/python/Digital Logic and Design/New folder/lab_5/SRC/top.sv
+FC:/python/Digital Logic and Design/New folder/lab_5/SRC/top.sv
+!i122 7
+L0 1 16
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/python/Digital Logic and Design/New folder/lab_5/SRC/top.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/python/Digital Logic and Design/New folder/lab_5/SRC/top.sv|
+!i113 0
+R8
+R1
